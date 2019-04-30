@@ -1,0 +1,18 @@
+[
+	{
+		"name": "friedman",
+		"image": "Friedman.jpg",
+		"text": "<b>Milton Friedman</b> (1912-2006) var en Nobelprisvinnande ekonom, och en av de främsta framtagarna av Chicagoskolans nationalekonomiska teori. Han började sin karriär som Keynesisk, men blev snart en av de främsta motståndarna till Keynesisk finanspolitik. Han beröms för sina teorier om att arbetslöshet har ett \"naturligt\" värde, stagflation och mycket mer. Han var en rådgivare till President Ronald Reagan och Premiärminister Margaret Thatcher. I sin mest berömda bok <b>Capitalism and Freedom</b>, argumenterar han för politik som en frivillig militär, en flytande växelkurs, avskaffande av medicinlicens och ett fritt skolval. Enligt han själv är hans stoltaste prestation hans roll i avskaffningen av värnplikten."	
+	},
+
+	{
+		"name": "Keynes",
+		"image": "Keynes.jpg",
+		"text": "<b>John Maynard Keynes</b> (1883-1946) var en brittisk nationalekonom och filosof. Han argumenterade för en större intervention av staten in i ekonomin och hur det, speciellt i fall av en lågkonjunktur, kan hjälpa ekonomin. Hans idéer kom att inspirera presidenter som Franklin D. Roosevelt och Lyndon B. Johnson, såväl som socialliberala partier som Socialdemokraterna och Brittisk Labour världen över. Han är kanske en av de mer kontroversiella ekonomer, då vissa menar att hans policies hjälpte till i depressionen, medans andra argumenterar att de förvärrade den."
+	},
+	{
+		"name": "Reagan",
+		"image": "Reagan.jpg",
+		"text": "<b>President Ronald Reagan</b> (1911-2004), tjänade som Förenta Staternas 40:e president mellan 1981-1989. Tidigare tjänade han som guvernör av Kalifornien. Han började sin karriär som medlem av det Demokratiska partiet, men bytte i 1964 till det Republikanska partiet. Han var en av de starkaste förespråkarna för en liten stat, avreglering, och utbudsekonomi. Hans vinst i 1984 över <b>Walter Mondale</b> i den näst mest överlägsna vinsten i Amerikas historia, med 525 av 538 electoral votes. Förutom en succé ekonomiskt sett med rekordhög tillväxt av BNP, rekordlåg arbetslöshet och minskning av inflationen från 12.5% till 4.4% såg han stor framgång i utrikespolitik. Han beskrev Sovjetunionen som ett \"onskefullt imperie\" och gav sitt berömda tal \"tear down this wall\" om berlinmuren. Han eskalerade vapentävlingen med Sovjet, och översåg underskrivandet av IMF-fördraget. Sovjet kollapsade tre år efter hans avgång, och muren föll året efter avgången."
+	}
+]
